@@ -18,3 +18,9 @@ Além da mentoria no projeto, a mentora também ensinará boas práticas e coisa
 - E outros tópicos que o grupo achar relevante
 
 
+## Comunicacao 
+- Teremos um Canal geral no Discord onde todes as mentorandes tem que entrar, la compartilharemos avisos, materias de estudo e ser um logo para converasar com mentorandas de outros Grupos. Discord e opcional para as mentoras, mas recomendado.
+- Teremos um grupo no Telegram para as mentoras.
+- Cada mentora Devera criar um grupo no Telegram ou no Whatsapp para se comunicar com suas mentorads
+
+
